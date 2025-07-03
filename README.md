@@ -1,11 +1,11 @@
 # 🔥 My vs code config with extensions and etc.
-
+![](https://github.com/retrovisionagain/myvscodeConfig/blob/main/vscodiumScreen.png)
 # 📝 Config
 You can see it in my json file 
 
 # ✨ Extensions
 
-**Catpuccin for VSCode** - main theme
+**Catpuccin for VSCode,Github Theme** - main themes
 
 **Symbols** - main icon theme
 
